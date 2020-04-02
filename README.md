@@ -26,22 +26,22 @@ Contraints
 examples
 
 
---input 1
+--input 1 --
 2 0
 1 0 
 6 5
 
---output 1
+--output 1 --
 
 lose
 
 
---input 2
+--input 2 --
 2 2
 1 6 
 0 2
 
---output 2
+--output 2 --
 
 win
 
