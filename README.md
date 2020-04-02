@@ -1,5 +1,4 @@
-# cpquestion
-                           
+# cpquestion                           
 
 NameA and NameB are two friends. Once NameC gave them a Challenge. NameC gave an integer n as input and then an nXn 
 dimensional matrix (lets denote it by M) .  This challenge is basically a game and this game is played by NameA and NameB . Normally in a game two player play to defeat each other but this game is different, in this game NameA and nameB play optimally make a condition given by nameC true. If the condition given by nameC is made true by nameA and nameB then nameC loses.
@@ -22,6 +21,4 @@ Contraints
 2<=n<=50
 1<=k<=100000000
 -1000<=aij<=1000 (aij detones elements of M for all i,j possible)
-
-
 
