@@ -18,7 +18,31 @@ NameC has also given k as input and the task that nameC gives to nameA and nameB
 
 Contraints
 
-2<=n<=50
-1<=k<=100000000
+2<=n<=50,
+0<=k<=100000000,
 -1000<=aij<=1000 (aij detones elements of M for all i,j possible)
+
+
+examples
+
+
+--input 1
+2 0
+1 0 
+6 5
+
+--output 1
+
+lose
+
+
+--input 2
+2 2
+1 6 
+0 2
+
+--output 2
+
+win
+
 
